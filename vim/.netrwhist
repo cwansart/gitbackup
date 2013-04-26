@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/christian/Programmierung/rails/shop/app/views/catalog'
+let g:netrw_dirhist_2='/home/christian/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.11.0/spec/rspec/rails'
+let g:netrw_dirhist_3='/home/christian/Programmierung/rails/studentplaner/spec'
+let g:netrw_dirhist_4='/home/christian/.vim'
+let g:netrw_dirhist_5='/home/christian/Programmierung/wackadoo/game_server/app/controllers/action/funamental'
+let g:netrw_dirhist_6='/home/christian/Programmierung/wackadoo/game_server/app/controllers/action/fundamental'

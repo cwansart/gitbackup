@@ -113,8 +113,8 @@ set expandtab
 set smarttab
 
 " 1 tab == 2 spaces
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 
 " Linebreak on 500 characters
 set lbr
@@ -142,6 +142,4 @@ au BufNewFile,BufRead *.world set filetype=xml
 """""""""""""""""""""""""""""
 " => Keyboard mappings
 """""""""""""""""""""""""""""
-" Toggle NERDTree
-map <F2> :NERDTreeToggle<CR>
 
